@@ -1,0 +1,21 @@
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 3%;
+}
+.left-footer ul {
+  display: flex;
+  flex-direction: row;
+}
+.right-footer ul {
+  display: flex;
+  flex-direction: row;
+}
+.left-footer ul li {
+  list-style: none;
+  margin-left: 8px;
+}
+.right-footer ul li {
+  list-style: none;
+  margin-left: 8px;
+}

@@ -1,0 +1,30 @@
+.Navbar {
+  width: 96%;
+  display: flex;
+  justify-content: right;
+  margin: 10px 1%;
+  height: 50px;
+  padding: 2px 2%;
+}
+.menu ul {
+  display: flex;
+}
+.menu ul li {
+  list-style: none;
+  margin-left: 15px;
+}
+.menu ul li:hover {
+  text-decoration: underline;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.img-container {
+  margin-left: 10px;
+}
+.img-container img {
+  border-radius: 50%;
+  margin-top: 9px;
+}
